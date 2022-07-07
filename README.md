@@ -6,7 +6,7 @@
 
 ![](https://github.com/smvaca2/Informe-tarea-5/blob/b1eaa0360f49302bed0b2880d950038fdd19b582/1.PNG)
 
-![]https://github.com/smvaca2/Informe-tarea-5/blob/b1eaa0360f49302bed0b2880d950038fdd19b582/2.PNG)
+![](https://github.com/smvaca2/Informe-tarea-5/blob/b1eaa0360f49302bed0b2880d950038fdd19b582/2.PNG)
 
 ![](https://github.com/smvaca2/Informe-tarea-5/blob/b1eaa0360f49302bed0b2880d950038fdd19b582/3.PNG)
 
