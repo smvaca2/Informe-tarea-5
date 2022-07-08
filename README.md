@@ -1,8 +1,8 @@
 ***1. OBJETIVOS***
 
-_Entender los conceptos e implementaciones del magnetismo
+_Entender los conceptos e implementaciones del magnetismo, electromagetismo
 
-_Analizar los distintos componentes electrónicos junto con la ley de Faraday
+_Analizar los distintos componentes electrmagneticos junto con la ley de Faraday
 
 
 ***2. MARCO TEÓRICO*** 
