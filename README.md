@@ -66,7 +66,7 @@ _Repasar los métodos aprendidos para la resolución de circuitos
 
 ***4)Video***
 
-
+https://youtu.be/-wb79LMXqMw
 
 ***5.Conclusiones***
 
