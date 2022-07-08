@@ -1,9 +1,10 @@
 ***1. OBJETIVOS***
 
-_Entender los conceptos e implementaciones del magnetismo, electromagetismo
+_Entender los conceptos e implementaciones del magnetismo y electromagetismo
 
 _Analizar los distintos componentes electrmagneticos junto con la ley de Faraday
 
+_Repasar los métodos aprendidos para la resolución de circuitos
 
 ***2. MARCO TEÓRICO*** 
 
@@ -69,7 +70,10 @@ _Analizar los distintos componentes electrmagneticos junto con la ley de Faraday
 
 ***5.Conclusiones***
 
+Con la realización de esta tarea se pudo tener presentes muchos conceptos ya vistos como el caso de los métodos de resolución de circutios y otros tantos nuevos como los de magnetismo, electromagnetismo y sus inducciones. Todo esto es muy importante de aprender ya que con el paso de los temas las aplicaciones de estos cada vez son más presentes.
 
 ***6.Bibliografía***
 _Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearso
+
+_Walker, S. M. (2007). El magnetismo. ediciones Lerner.
 
