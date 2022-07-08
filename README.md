@@ -24,17 +24,23 @@
 
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej1.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej2.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej3.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej4.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej5.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej6.PNG)
+
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej7.PNG)
+
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej8.PNG)
+
+![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej9.PNG)
 
 ![]()
 
