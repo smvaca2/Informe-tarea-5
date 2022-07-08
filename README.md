@@ -42,21 +42,24 @@
 
 ![](https://github.com/smvaca2/Informe-tarea-5/blob/c539bacd591b58e167c1efccfe41576c471063b4/ej9.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej10.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej11.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej12.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej13.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej14.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej15.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej15.PNG)
 
-![]()
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej16.PNG)
+
+![](https://github.com/smvaca2/Informe-tarea-5/blob/f2bb5e9fabca1dbc12b0a7e133e824f694495e71/ej17.PNG)
+
 ***4)Video***
 
 
